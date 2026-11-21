@@ -2,6 +2,8 @@
 
 Beginner documentation for **Canva**, an online graphic design platform. This repository holds the project proposal, the document plan, and the planned guides that help new users start from a template, personalize a design, and export or share the finished piece.
 
+XXXXXX
+
 ---
 
 ## 1. Project Proposal
